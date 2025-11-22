@@ -2,4 +2,4 @@
 
 Here’s my resume (PDF):
 
-[📄 View Resume](./SaurabhChavanReactNative.pdf)
+[📄 View Resume](./Saurabh_ReactNative_Resume.pdf.pdf)
